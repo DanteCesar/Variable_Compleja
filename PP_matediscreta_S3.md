@@ -1,4 +1,4 @@
-## Ejercicios de Nivel Universitario
+## Ejercicios
 
 ### 1. Producto cartesiano  
 Sean los conjuntos:  
